@@ -6,6 +6,10 @@ import csv
 import sys
 import statistics
 
+"""
+load data from csv
+"""
+
 file_name = sys.argv[1]
 data = []
 pos = []
